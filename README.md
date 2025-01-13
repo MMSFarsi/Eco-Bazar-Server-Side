@@ -1,8 +1,10 @@
-# Chill Gamer Server Side
+# EcoBazar Server Side
 
 
 ## Live Website Link
-https://chill-gamer-2ad33.web.app/
+https://eco-bazar-28b49.web.app/
+## Server Link
+https://eco-bazar-server.vercel.app/
 
 
 
